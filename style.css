@@ -1,0 +1,55 @@
+body {
+    
+    background-image: url(110b0bf20957e0a652740e492b45f911.jpg);
+    background-size: cover; /* Ajusta la imagen para cubrir toda el área */
+    /*background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center; /* Centra la imagen */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra horizontalmente el contenido */
+    justify-content: center; /* Centra verticalmente el contenido */
+    text-align: center; /* Centra el texto */
+    
+}
+
+.link1 {
+    color: rgb(29, 97, 111);
+}
+
+h1 {
+    background-color: rgb(29, 97, 111);
+}
+
+.foto {
+    border: solid;
+    border-width: 5px;
+    border-radius: 50px;
+    border-color: rgb(29, 97, 111);
+    height: 400px;
+}
+
+.link2 {
+    color: rgb(29, 97, 111);
+}
+
+.fotochica {
+    border: solid;
+    border-width: 5px;
+    border-radius: 50px;
+    border-color: rgb(29, 97, 111);
+    height: 300px;
+}
+
+#bp {
+    background-color: rgb(152, 159, 159);
+    color: white;
+}
+
+h2, h3 {
+    color: rgb(29, 97, 111);
+}
+
+#intro {
+    font-weight: bold;
+}
+
